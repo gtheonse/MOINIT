@@ -1,3 +1,0 @@
-hello world GONZALO 
-Awesome !
-version 6
